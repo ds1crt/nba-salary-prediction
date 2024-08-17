@@ -1,2 +1,3 @@
 # nba-salary-prediction
 Predicting NBA player salaries using machine learning involves building a model that can analyse various factors related to players, such as performance statistics, age, position, team, accolades, and other relevant features, to predict their salaries.
+Gathering a dataset containing information about NBA players and their salaries. This dataset includes features like player statistics (e.g., points per game, rebounds per game), demographic information (e.g., age, position), team details, and contract details (e.g., salary, contract duration). NBA Player Salaries (2022-23 Season) dataset from kaggle website has been used for this project. 
